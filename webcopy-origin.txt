@@ -1,0 +1,160 @@
+Uri: https://hugerain.net/
+File Name: C:\Downloaded Web Sites\hugerain.net\index.htm
+Content Type: text/html
+
+Uri: https://hugerain.net/favicon.ico
+File Name: C:\Downloaded Web Sites\hugerain.net\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://hugerain.net/manifest.json
+File Name: C:\Downloaded Web Sites\hugerain.net\manifest.json
+Content Type: application/json
+
+Uri: https://hugerain.net/storage/assets/img/miniature.jpg
+File Name: C:\Downloaded Web Sites\hugerain.net\storage\assets\img\miniature.jpg
+Content Type: image/jpeg
+
+Uri: https://hugerain.net/storage/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\hugerain.net\storage\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://hugerain.net/storage/assets/css/animate.min.css
+File Name: C:\Downloaded Web Sites\hugerain.net\storage\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://hugerain.net/storage/assets/css/style.css?v=2.1.2
+File Name: C:\Downloaded Web Sites\hugerain.net\storage\assets\css\style.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Nunito:200%2C200i%2C300%2C300i%2C400%2C400i%2C600%2C600i%2C700%2C700i%2C800%2C800i%2C900%2C900i%26subset%3Dlatin%2Clatin-ext&ver=1.0.0
+File Name: C:\Downloaded Web Sites\hugerain.net\css.css
+Content Type: text/css
+
+Uri: https://ru.wikipedia.org/wiki/Распрыжка
+File Name: C:\Downloaded Web Sites\hugerain.net\wiki\Распрыжка.html
+Content Type: text/html
+
+Uri: https://hugerain.net/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\hugerain.net\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://hugerain.net/appeal
+File Name: C:\Downloaded Web Sites\hugerain.net\appeal.html
+Content Type: text/html
+
+Uri: https://hugerain.net/storage/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\hugerain.net\storage\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://hugerain.net/storage/assets/js/bootstrap-notify.min.js
+File Name: C:\Downloaded Web Sites\hugerain.net\storage\assets\js\bootstrap-notify.min.js
+Content Type: application/javascript
+
+Uri: https://hugerain.net/storage/assets/js/ajax-user.js?v=2.1.1
+File Name: C:\Downloaded Web Sites\hugerain.net\storage\assets\js\ajax-user.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-120303871-4
+File Name: C:\Downloaded Web Sites\hugerain.net\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://hugerain.net/storage/assets/img/logo_full.png
+File Name: C:\Downloaded Web Sites\hugerain.net\storage\assets\img\logo_full.png
+Content Type: image/png
+
+Uri: https://hugerain.net/storage/assets/video/new.mp4
+File Name: C:\Downloaded Web Sites\hugerain.net\storage\assets\video\new.mp4
+Content Type: video/mp4
+
+Uri: https://hugerain.net/storage/assets/img/flags/ru.svg
+File Name: C:\Downloaded Web Sites\hugerain.net\storage\assets\img\flags\ru.svg
+Content Type: image/svg+xml
+
+Uri: https://hugerain.net/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\hugerain.net\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://hugerain.net/storage/assets/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\hugerain.net\storage\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://hugerain.net/storage/assets/img/arrow-left.svg
+File Name: C:\Downloaded Web Sites\hugerain.net\storage\assets\img\arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://hugerain.net/oferta/
+File Name: C:\Downloaded Web Sites\hugerain.net\oferta\index.htm.pdf
+Content Type: application/pdf
+
+Uri: https://hugerain.net/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\hugerain.net\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://support.cloudflare.com/hc/en-us/articles/200170016-What-is-Email-Address-Obfuscation-
+File Name: C:\Downloaded Web Sites\hugerain.net\hc\en-us\articles\200170016-What-is-Email-Address-Obfuscation-.html
+Content Type: text/html
+
+Uri: https://support.cloudflare.com/hc/en-us/categories/200275218-Getting-Started
+File Name: C:\Downloaded Web Sites\hugerain.net\hc\en-us\categories\200275218-Getting-Started.html
+Content Type: text/html
+
+Uri: https://hugerain.net/policy/
+File Name: C:\Downloaded Web Sites\hugerain.net\policy\index.htm.pdf
+Content Type: application/pdf
+
+Uri: https://hugerain.net/?login=
+File Name: C:\Downloaded Web Sites\hugerain.net\index-1.htm
+Content Type: text/html
+
+Uri: https://mc.yandex.ru/watch/66584788/1
+File Name: C:\Downloaded Web Sites\hugerain.net\watch\66584788\1.gif
+Content Type: image/gif
+
+Uri: https://hugerain.net/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\hugerain.net\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://hugerain.net/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\hugerain.net\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://hugerain.net/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\hugerain.net\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://hugerain.net/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\hugerain.net\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://hugerain.net/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\hugerain.net\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://hugerain.net/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\hugerain.net\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://hugerain.net/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\hugerain.net\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://hugerain.net/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\hugerain.net\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://hugerain.net/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\hugerain.net\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://hugerain.net/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\hugerain.net\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://dash.cloudflare.com/sign-up?utm_source=email_protection
+File Name: C:\Downloaded Web Sites\hugerain.net\sign-up.html
+Content Type: text/html
+
+Uri: https://www.cloudflare.com/5xx-error-landing/
+File Name: C:\Downloaded Web Sites\hugerain.net\5xx-error-landing\index.htm
+Content Type: text/html
+
